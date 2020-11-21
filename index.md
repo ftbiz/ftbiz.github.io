@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Команда In.Tech.Gourp
 
 You can use the [editor on GitHub](https://github.com/ftbiz/ftbiz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
